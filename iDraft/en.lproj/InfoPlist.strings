@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  iDraft
+
+  Created by yujin on 2021/05/21.
+  Copyright © 2021 yujin. All rights reserved.
+*/
+"NSUserTrackingUsageDescription" = "Allow the app to collect your device data for distributing ads?";
+"iDraft - Learning comunity app";

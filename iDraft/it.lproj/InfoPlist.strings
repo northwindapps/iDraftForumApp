@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  iDraft
+
+  Created by yujin on 2021/05/21.
+  Copyright © 2021 yujin. All rights reserved.
+*/
+"NSUserTrackingUsageDescription" = "Consentire all'app di raccogliere i dati del dispositivo per la distribuzione di annunci?";
+"CFBundleDisplayName" = "La mia bozza";
